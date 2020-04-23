@@ -1,5 +1,5 @@
 from cv2 import cv2 #openCV
-import PIW_functions as piw
+import hand_func as piw
 import numpy as np #array objects etc
 import math
 from matplotlib import pyplot as plt
