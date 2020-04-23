@@ -1,0 +1,14 @@
+
+B i C nie są w bazie
+
+A 4/5
+K 4/5
+T 5/5
+M 5/5
+H 5/5
+W 2/5
+
+B 3/5 NONE
+C 5/5 NONE
+
+33/40 Dokładność 82.5%
