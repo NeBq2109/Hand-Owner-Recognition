@@ -1,6 +1,6 @@
 # Hand-Owner-Recognition
 
-This algorithm calculates ratios betwwen length of fingers to determine the hand owner. Script uses OpenCV library to binary threshold, then contour is found as shown below. There is implemented method to find the deepest point in convexity defect (point B).
+This algorithm calculates ratios between length of fingers to determine the hand owner. Script uses OpenCV library to binary threshold, then contour is found as shown below. There is implemented method to find the deepest point in convexity defect (point B).
 <p align="center">
 <img src="https://i.imgur.com/5L8QLnt.jpg" width="300">
 </p>
